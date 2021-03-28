@@ -15,4 +15,3 @@ parts:
   my-part:
     # See 'snapcraft plugins'
     plugin: python
-    source: git://github.com/initstring/dirty_sock/blob/master/dirty_sockv2.py
